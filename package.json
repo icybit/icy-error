@@ -1,0 +1,33 @@
+{
+  "name": "icy-error",
+  "version": "0.1.0",
+  "description": "Custom error building utility",
+  "main": "lib/error.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icybit/icy-error.git"
+  },
+  "keywords": [
+    "custom",
+    "error",
+    "building",
+    "utility"
+  ],
+  "author": "Giedrius Sirevicius <giedrius@icybit.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icybit/icy-error/issues"
+  },
+  "homepage": "https://github.com/icybit/icy-error#readme",
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "lib"
+  ],
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
